@@ -1,0 +1,5 @@
+torch==2.0.1  # PyTorch library (update version if needed)
+torchvision==0.15.2  # TorchVision for image transformations and models
+Pillow==9.5.0  # PIL-based library for image processing
+matplotlib==3.7.1  # For visualization (optional, if you use it)
+tkinter  # Built-in Python library for GUI (no installation needed)
